@@ -1,29 +1,5 @@
 [
     {
-        "outputFile": "D:\\YASHPorject\\tubbr-android_latest\\TurnWifi\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 58,
-                    "endOffset": 109
-                },
-                "from": {
-                    "file": "D:\\YASHPorject\\tubbr-android_latest\\TurnWifi\\app\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 206,
-                        "endColumn": 58,
-                        "endOffset": 260
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "D:\\TurnWifi\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
         "map": [
             {

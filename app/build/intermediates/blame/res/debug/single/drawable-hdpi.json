@@ -6,13 +6,5 @@
     {
         "merged": "D:\\TurnWifi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wifi.png",
         "source": "D:\\TurnWifi\\app\\src\\main\\res\\drawable-hdpi\\wifi.png"
-    },
-    {
-        "merged": "D:\\YASHPorject\\tubbr-android_latest\\TurnWifi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wifi.png",
-        "source": "D:\\YASHPorject\\tubbr-android_latest\\TurnWifi\\app\\src\\main\\res\\drawable-hdpi\\wifi.png"
-    },
-    {
-        "merged": "D:\\YASHPorject\\tubbr-android_latest\\TurnWifi\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
-        "source": "D:\\YASHPorject\\tubbr-android_latest\\TurnWifi\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     }
 ]
